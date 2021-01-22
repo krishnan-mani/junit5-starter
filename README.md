@@ -1,2 +1,2 @@
-- use with a JDK (like Java 11). You can obtain one using [sdkmani](https://sdkman.io/)
+- use with a JDK (like Java 11). You can obtain one using [sdkman](https://sdkman.io/)
 - run tests using IntelliJ Idea. Ran tests successfully with Community 2020.3 version 
