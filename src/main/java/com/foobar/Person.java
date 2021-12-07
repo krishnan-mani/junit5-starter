@@ -1,11 +1,8 @@
 package com.foobar;
 
+import lombok.Builder;
+
+@Builder
 public class Person {
-
-	private final String name;
-
-	public Person(String name) { this.name = name; }
-
-	public String getName() { return name; }
-
+	final String name;
 }

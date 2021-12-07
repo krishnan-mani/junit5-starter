@@ -7,8 +7,10 @@ public class PersonTest {
 
 	@Test
 	void itIsNamed() {
-          Person person = new Person("Adam");
-		assertEquals("Adam", person.getName());
+		Person person = Person.builder()
+			.name("Adam")
+			.build();
+		assertEquals("Adam", person.name);
 	}
 
 
