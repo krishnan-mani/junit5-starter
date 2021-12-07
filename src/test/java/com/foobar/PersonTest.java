@@ -1,4 +1,4 @@
-package com.krishnanm.foobar;
+package com.foobar;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;

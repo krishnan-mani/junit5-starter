@@ -1,4 +1,4 @@
-package com.krishnanm.foobar;
+package com.foobar;
 
 public class Person {
 
